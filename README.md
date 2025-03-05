@@ -4,7 +4,7 @@ SnapQR is a **lightweight and fast QR code scanner for Windows**.
 It allows users to **instantly scan and decode QR codes displayed on their screen** with minimal resource usage.  
 
 ## 📥 Download SnapQR  
-🔽 **[Download SnapQR v1.3.1 (Windows)](https://github.com/koreafinder/SnapQR/releases/download/v1.3.1/SnapQR.zip)**  
+[![Download SnapQR v1.3.1](https://img.shields.io/badge/Download-SnapQR-blue?style=for-the-badge&logo=windows)](https://github.com/koreafinder/SnapQR/releases/download/v1.3.1/SnapQR.zip)
 
 ---
 
